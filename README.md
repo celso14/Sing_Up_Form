@@ -1,7 +1,12 @@
 # Sing_Up_Form
 ->Inspirado no projeto: https://github.com/giovannamoeller/sign-up-form
+
+
 ->Fiz do meu jeito. 
+
+
 ->Página de casdastro usando HTML e CSS.
+
 
 Web version
 
